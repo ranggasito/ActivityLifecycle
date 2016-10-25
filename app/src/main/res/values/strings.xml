@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Activity Lifecycle</string>
+    <string name="main_activity_intro">This is the main Activity, the app will use this activity as default activity that triggered when this app open, you can change this behaviour in app manifest configuration</string>
+    <string name="btn_another_activity">Launch another Activity</string>
+    <string name="btnLabel_showdialog">Show Dialog</string>
+    <string name="dialog_message">Are you sure want to leave current activity ?</string>
+    <string name="dialog_title">Alert</string>
+    <string name="btn_ok_dialog">Okay Bruuh</string>
+    <string name="btn_cancel_dialog">No, I prefer to cancel this</string>
+</resources>
